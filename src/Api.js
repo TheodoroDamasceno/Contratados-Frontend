@@ -1,5 +1,5 @@
 import AsyncStorage from '@react-native-community/async-storage';
-const BASE_API = 'http://192.168.1.40:8080';
+const BASE_API = 'http://localhost:8080';
 const VIA_CEP = 'https://viacep.com.br/ws';
 
 export default {
